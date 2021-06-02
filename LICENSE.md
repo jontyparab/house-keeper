@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2021 jontyparab
 Copyright (c) 2018-2020 PrimeTek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
