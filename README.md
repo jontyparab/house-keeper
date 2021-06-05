@@ -10,6 +10,13 @@ Other SVGs: [unDraw](https://undraw.co/)
 
 Turtle Image: [Turtle Image](https://unsplash.com/photos/aMrDka0VGzU)
 
+#Demo Examples:
+![](examples/1.PNG)
+![](examples/2.PNG)
+![](examples/3.PNG)
+![](examples/6.PNG)
+![](examples/7.PNG)
+![](examples/9.PNG)
 ## Project setup
 
 ```
